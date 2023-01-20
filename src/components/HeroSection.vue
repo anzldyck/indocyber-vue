@@ -2,11 +2,11 @@
   <section class="container">
     <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/bg-header.svg"
         alt="bg-header" class="img-header d-none d-md-block">
-    <div class="row mx-0" id="header">
+    <div class="row mx-0" id="header" style="text-align: left">
         <div class="col-xl-6">
             <div class="title">
                 <h1>
-                    Find Your Next Home Stay
+                    Find your Favorite books
                 </h1>
             </div>
             <div class="d-flex stat">
@@ -15,7 +15,7 @@
                         37
                     </h2>
                     <p>
-                        Homestays
+                        Komik
                     </p>
                 </div>
                 <div class="vr"></div>
@@ -24,7 +24,7 @@
                         80
                     </h2>
                     <p>
-                        Partners
+                        Sains
                     </p>
                 </div>
                 <div class="vr"></div>
@@ -33,15 +33,13 @@
                         760
                     </h2>
                     <p>
-                        Villas
+                        Programming
                     </p>
                 </div>
             </div>
             <div class="stat">
                 <p class="descript-head">
-                    Consectetur odio amet risus ut mattis sed tempor, sed luctus consequat in pellentesque neque
-                    nec
-                    auctor eu mi mauris, sapien aliquam duis eget id morbi auctor ac tellus ut
+                    The more that you read, the more things you will know. The more that you learn, the more places you’ll go
                 </p>
             </div>
             <div>
@@ -53,70 +51,70 @@
         <div class="col-xl-6 my-auto">
             <div class="gallery row p-md-4 section scrolling-wrapper flex-row flex-nowrap">
                 <!-- CARD 1 -->
-                <div class="card-hotel-carousel">
-                    <div class="image-placeholder">
-                        <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/place.png"
-                            alt="images" />
-                    </div>
-                    <div class="card-details">
-                        <div class="caption">Tretes Hotel INA</div>
-                        <span class="sub-caption">150m</span>
-                    </div>
-                    <div class="bottom-text d-flex flex-row justify-content-between">
-                        <div class="price-content flex-grow-1">
-                            <span>Start from</span> <span class="price">40 USD</span>
-                        </div>
-                        <div class="rating d-flex align-items-center">
-                            <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/star-yellow.svg"
-                                alt="star" />
-                            <span>4.8</span>
-                        </div>
-                    </div>
+                 <div class="card-hotel-carousel">
+                            <div class="image-placeholder">
+                                <img src="https://i.pinimg.com/474x/67/de/12/67de123d80c51f8bfb29934648624f99.jpg"
+                                    alt="images" />
+                            </div>
+                            <div class="card-details">
+                                <div class="caption">Marshland</div>
+                                <span class="sub-caption">Mathew Olshan</span>
+                            </div>
+                            <div class="bottom-text d-flex flex-row justify-content-between">
+                                <div class="price-content flex-grow-1">
+                                    <span>Start from</span> <span class="price">40 USD</span>
+                                </div>
+                                <div class="rating d-flex align-items-center">
+                                    <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/star-yellow.svg"
+                                        alt="star" />
+                                    <span>4.8</span>
+                                </div>
+                            </div>
                 </div>
                 <!-- END CARD 1 -->
                 <!-- CARD 2 -->
                 <div class="card-hotel-carousel">
-                    <div class="image-placeholder">
-                        <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/place-2.png"
-                            alt="images" />
-                    </div>
-                    <div class="card-details">
-                        <div class="caption">Hotel Mawar & Melati Putih</div>
-                        <span class="sub-caption">120m</span>
-                    </div>
-                    <div class="bottom-text d-flex flex-row justify-content-between">
-                        <div class="price-content flex-grow-1">
-                            <span>Start from</span> <span class="price">40 USD</span>
+                            <div class="image-placeholder">
+                                <img src="https://i.pinimg.com/474x/14/75/39/147539aac2b751e5d0813c346ac4be43.jpg"
+                                    alt="images" />
+                            </div>
+                            <div class="card-details">
+                                <div class="caption">The Throught Breaking</div>
+                                <span class="sub-caption">Cate Emond</span>
+                            </div>
+                            <div class="bottom-text d-flex flex-row justify-content-between">
+                                <div class="price-content flex-grow-1">
+                                    <span>Start from</span> <span class="price">40 USD</span>
+                                </div>
+                                <div class="rating d-flex align-items-center">
+                                    <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/star-yellow.svg"
+                                        alt="star" />
+                                    <span>4.8</span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="rating d-flex align-items-center">
-                            <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/star-yellow.svg"
-                                alt="star" />
-                            <span>4.8</span>
-                        </div>
-                    </div>
-                </div>
                 <!-- END CARD 2 -->
                 <!-- CARD 3 -->
                 <div class="card-hotel-carousel">
-                    <div class="image-placeholder">
-                        <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/place.png"
-                            alt="images" />
-                    </div>
-                    <div class="card-details">
-                        <div class="caption">Tretes Hotel INA</div>
-                        <span class="sub-caption">150m</span>
-                    </div>
-                    <div class="bottom-text d-flex flex-row justify-content-between">
-                        <div class="price-content flex-grow-1">
-                            <span>Start from</span> <span class="price">40 USD</span>
+                            <div class="image-placeholder">
+                                <img src="https://i.pinimg.com/474x/66/ab/e4/66abe4b5abbd209f4a09fcd8afc207d9.jpg"
+                                    alt="images" />
+                            </div>
+                            <div class="card-details">
+                                <div class="caption">The Jungle Book</div>
+                                <span class="sub-caption">Rudyard</span>
+                            </div>
+                            <div class="bottom-text d-flex flex-row justify-content-between">
+                                <div class="price-content flex-grow-1">
+                                    <span>Start from</span> <span class="price">40 USD</span>
+                                </div>
+                                <div class="rating d-flex align-items-center">
+                                    <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/star-yellow.svg"
+                                        alt="star" />
+                                    <span>4.8</span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="rating d-flex align-items-center">
-                            <img src="https://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header-House/star-yellow.svg"
-                                alt="star" />
-                            <span>4.8</span>
-                        </div>
-                    </div>
-                </div>
                 <!-- END CARD 3 -->
             </div>
         </div>
